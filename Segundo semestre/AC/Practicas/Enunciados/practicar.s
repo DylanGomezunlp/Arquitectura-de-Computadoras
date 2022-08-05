@@ -1,0 +1,1 @@
+#leer de teclado 4 corrdenadas y hacer un recuadro de lado y ancho

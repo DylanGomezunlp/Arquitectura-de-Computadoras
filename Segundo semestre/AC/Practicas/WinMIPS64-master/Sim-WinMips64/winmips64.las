@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\facultad\Segundo semestre\AC\Practicas\eje9p6.s
